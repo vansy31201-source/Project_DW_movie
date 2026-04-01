@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="VANSY31_MSSQLSERVER1.DAT204_DataWareHouse"
+  DTS:DTSID="{59102FDA-A2BD-4B85-B58E-3C777E55AEF2}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=VANSY31\MSSQLSERVER1;Initial Catalog=DAT204_DataWareHouse;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Project_Group_Dat204-{59102FDA-A2BD-4B85-B58E-3C777E55AEF2}VANSY31\MSSQLSERVER1.DAT204_DataWareHouse;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

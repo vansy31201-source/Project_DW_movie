@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-RC52NIEN_SQLEXPRESS.DAT204_DataWareHouse"
+  DTS:DTSID="{3CF35A42-8149-4B7A-9228-4A2ED889806D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=VANSY31\MSSQLSERVER1;Initial Catalog=project_group_dat204;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Project_Group_Dat204-{3CF35A42-8149-4B7A-9228-4A2ED889806D}LAPTOP-RC52NIEN\SQLEXPRESS.DAT204_DataWareHouse;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

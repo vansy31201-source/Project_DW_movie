@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-RC52NIEN_SQLEXPRESS.movies.sa"
+  DTS:DTSID="{195E7ADC-020D-4475-B459-E92979269042}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=VANSY31\MSSQLSERVER1;Initial Catalog=movies;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Project_Group_Dat204-{195E7ADC-020D-4475-B459-E92979269042}LAPTOP-RC52NIEN\SQLEXPRESS.movies.sa;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="VANSY31_MSSQLSERVER1.Stg_movie"
+  DTS:DTSID="{F4B273B8-FCB9-4BAB-895D-3BE086DDA342}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=VANSY31\MSSQLSERVER1;Initial Catalog=Stg_movie;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Project_Group_Dat204-{F4B273B8-FCB9-4BAB-895D-3BE086DDA342}VANSY31\MSSQLSERVER1.Stg_movie;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
